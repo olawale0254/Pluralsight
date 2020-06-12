@@ -1,2 +1,0 @@
-# Pluralsight
-Created with CodeSandbox
